@@ -1,6 +1,5 @@
 import React from 'react';
 import { Student } from '../types';
-// FIX: Import missing constants
 import { 
     AMOUNT_PER_STUDENT, 
     PROGRAM_NAME, 
