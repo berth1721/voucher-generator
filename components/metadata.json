@@ -1,0 +1,5 @@
+
+{
+  "name": "Automated Voucher Generator",
+  "description": "An application to automate the creation of payroll sheets and disbursement vouchers for scholarship programs. Users can input student data, and the application generates printable, professionally formatted documents based on predefined templates."
+}
